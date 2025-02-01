@@ -1,4 +1,7 @@
 logs/
 node_modules/
 
+mongo/
+postgres/
+
 .env
